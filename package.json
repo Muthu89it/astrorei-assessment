@@ -1,0 +1,17 @@
+{
+  "name": "prints-the-numbers-1-100",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "prints-the-numbers-1-100": "file:"
+  }
+}
